@@ -1,4 +1,4 @@
-# 🦾 Echo-5 AI: Tactical Evolution Arena
+# 🦾 Echo-5 AI: 5v5  Tactical Evolution Arena
 
 ![Project Banner](img/image.png)
 
